@@ -1,0 +1,1083 @@
+:root {
+	--web-view-ids: Web_1920___1;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+}
+#Web_1920___1 {
+	display: none;
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920___1 {
+		position: absolute;
+		box-sizing: border-box;
+		transform: translateX(-50%);
+		left: 50%;
+		display: block;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 6848px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_33 {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 6972px;
+		left: -1px;
+		top: 0px;
+	}
+	.section_hero_backgroundblur {
+		position: absolute;
+		overflow: visible;
+		width: 2213px;
+		height: 1320px;
+		left: -199px;
+		top: 1019px;
+	}
+	.c407ae637ccae4508b6ff12969dd4c {
+		position: absolute;
+		overflow: visible;
+		width: 2213px;
+		height: 1316px;
+		left: -199px;
+		top: 2258px;
+	}
+	.White_Cruise_1440blur {
+		position: absolute;
+		overflow: visible;
+		width: 2188px;
+		height: 1202px;
+		left: -199px;
+		top: 3424px;
+	}
+	.ID061b094f_c764_4fdc_8bb0_33ba {
+		position: absolute;
+		overflow: visible;
+		width: 2250px;
+		height: 1131px;
+		left: -217px;
+		top: 4544px;
+	}
+	.b5f57c654825066be6db14f27b3b9b {
+		position: absolute;
+		overflow: visible;
+		width: 2213px;
+		height: 1140px;
+		left: -199px;
+		top: 5630px;
+	}
+	#Rectangle_15 {
+		opacity: 0.45;
+		filter: blur(50px);
+	}
+	.Rectangle_15 {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 6972px;
+		left: -1px;
+		top: 20px;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 144px;
+		left: 0px;
+		top: 935px;
+	}
+	.tesla_hero_header {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 870px;
+		left: -1px;
+		top: 65px;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 65px;
+		left: -1px;
+		top: 0px;
+	}
+	.LogBut {
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		height: 35px;
+		left: 1788px;
+		top: 15px;
+	}
+	#Log_in {
+		z-index:2;
+		position: absolute;
+		left: 1813px;
+		top: 21px;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	.Sbut {
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		height: 48px;
+		left: 506px;
+		top: 984px;
+	}
+	#Model_S {
+		position: absolute;
+		left: 538px;
+		top: 995px;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	.ID3But {
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		height: 48px;
+		left: 698px;
+		top: 984px;
+	}
+	#Model_3 {
+		position: absolute;
+		left: 730px;
+		top: 995px;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	.XBut {
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		height: 48px;
+		left: 890px;
+		top: 984px;
+	}
+	#Model_X {
+		position: absolute;
+		left: 922px;
+		top: 995px;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	.YBut {
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		height: 48px;
+		left: 1083px;
+		top: 984px;
+	}
+	#Model_Y {
+		position: absolute;
+		left: 1115px;
+		top: 995px;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	.RoadsterBut {
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		height: 48px;
+		left: 1275px;
+		top: 984px;
+	}
+	#Roadster {
+		position: absolute;
+		left: 1307px;
+		top: 995px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	.section_hero_background {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 734px;
+		left: 668px;
+		top: 1384px;
+	}
+	.c407ae637ccae4508b6ff12969dd4c_A0_Rectangle_25 {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 733px;
+		left: -4px;
+		top: 2497px;
+	}
+	.White_Cruise_1440 {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 734px;
+		left: 668px;
+		top: 3611px;
+	}
+	.ID061b094f_c764_4fdc_8bb0_33ba_A0_Rectangle_29 {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 733px;
+		left: 0px;
+		top: 4722px;
+	}
+	.b5f57c654825066be6db14f27b3b9b_A0_Rectangle_31 {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 733px;
+		left: 668px;
+		top: 5833px;
+	}
+	#Model_S_A0_Text_7 {
+		position: absolute;
+		left: 55px;
+		top: 1384px;
+		overflow: visible;
+		width: 263px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Model_3_A0_Text_8 {
+		position: absolute;
+		left: 1605px;
+		top: 2497px;
+		overflow: visible;
+		width: 263px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Model_X_A0_Text_9 {
+		position: absolute;
+		left: 53px;
+		top: 3611px;
+		overflow: visible;
+		width: 268px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Model_Y_A0_Text_10 {
+		position: absolute;
+		left: 1595px;
+		top: 4722px;
+		overflow: visible;
+		width: 265px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Roadster_A0_Text_11 {
+		position: absolute;
+		left: 55px;
+		top: 5833px;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 285px;
+		left: 0px;
+		top: 6687px;
+	}
+	.Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 66px;
+		left: 60px;
+		top: 2026px;
+	}
+	#learn_more {
+		position: absolute;
+		left: 89px;
+		top: 2043px;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 66px;
+		left: 1684px;
+		top: 3141px;
+	}
+	#learn_more_A0_Text_13 {
+		position: absolute;
+		left: 1713px;
+		top: 3158px;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 66px;
+		left: 57px;
+		top: 4254px;
+	}
+	#learn_more_A0_Text_14 {
+		position: absolute;
+		left: 86px;
+		top: 4271px;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 66px;
+		left: 1684px;
+		top: 5367px;
+	}
+	#learn_more_A0_Text_15 {
+		position: absolute;
+		left: 1713px;
+		top: 5384px;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		height: 66px;
+		left: 61px;
+		top: 6481px;
+	}
+	#learn_more_A0_Text_16 {
+		position: absolute;
+		left: 90px;
+		top: 6498px;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_22 {
+		opacity: 0.9;
+	}
+	.Rectangle_22 {
+		position: absolute;
+		overflow: visible;
+		width: 591px;
+		height: 461px;
+		left: 39px;
+		top: 1505px;
+	}
+	#Rectangle_23 {
+		opacity: 0.9;
+	}
+	.Rectangle_23 {
+		position: absolute;
+		overflow: visible;
+		width: 591px;
+		height: 461px;
+		left: 1294px;
+		top: 2621px;
+	}
+	#Rectangle_24 {
+		opacity: 0.9;
+	}
+	.Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 591px;
+		height: 461px;
+		left: 36px;
+		top: 3733px;
+	}
+	#Rectangle_25 {
+		opacity: 0.9;
+	}
+	.Rectangle_25 {
+		position: absolute;
+		overflow: visible;
+		width: 591px;
+		height: 461px;
+		left: 1294px;
+		top: 4846px;
+	}
+	#Rectangle_26 {
+		opacity: 0.9;
+	}
+	.Rectangle_26 {
+		position: absolute;
+		overflow: visible;
+		width: 591px;
+		height: 461px;
+		left: 40px;
+		top: 5960px;
+	}
+	#Home {
+		position: absolute;
+		left: 225px;
+		top: 20px;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Home:hover{
+		color:crimson;
+	}
+	#Products {
+		position: absolute;
+		left: 330px;
+		top: 20px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Products:hover{
+		color:crimson;
+	}
+	#About {
+		position: absolute;
+		left: 460px;
+		top: 20px;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#About:hover{
+		color:crimson;
+	}
+	.Rectangle_27 {
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 86px;
+		left: 351px;
+		top: 2016px;
+	}
+	#Order_now {
+		position: absolute;
+		left: 396px;
+		top: 2036px;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_28 {
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 84px;
+		left: 1315px;
+		top: 3132px;
+	}
+	#Order_now_A0_Text_21 {
+		position: absolute;
+		left: 1360px;
+		top: 3151px;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_29 {
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 86px;
+		left: 348px;
+		top: 4244px;
+	}
+	#Order_now_A0_Text_22 {
+		position: absolute;
+		left: 393px;
+		top: 4264px;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 86px;
+		left: 1315px;
+		top: 5357px;
+	}
+	#Order_now_A0_Text_23 {
+		position: absolute;
+		left: 1360px;
+		top: 5377px;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	.Rectangle_31 {
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 86px;
+		left: 352px;
+		top: 6471px;
+	}
+	#Order_now_A0_Text_24 {
+		position: absolute;
+		left: 397px;
+		top: 6491px;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	.tesla_logo {
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 34px;
+		left: 14px;
+		top: 17px;
+	}
+	.tesla_logo:hover{
+		transform: scale(1.01);
+	}
+	#Rectangle_32 {
+		opacity: 0.4;
+		filter: blur(50px);
+	}
+	.Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 870px;
+		left: -1px;
+		top: 65px;
+	}
+	#Products_A0_Text_25 {
+		position: absolute;
+		left: 71px;
+		top: 118px;
+		overflow: visible;
+		width: 320px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+	}
+	#_Battery____Long_Range___Accel {
+		position: absolute;
+		left: 75px;
+		top: 1564px;
+		overflow: visible;
+		width: 152px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#ModelS {
+		opacity: 0.8;
+	}
+	.ModelS {
+		position: absolute;
+		overflow: visible;
+		width: 321px;
+		height: 411px;
+		left: 275px;
+		top: 1530px;
+	}
+	#Basic_Specs {
+		position: absolute;
+		left: 55px;
+		top: 1519px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Basic_Specs_A0_Text_28 {
+		position: absolute;
+		left: 1315px;
+		top: 2639px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#_Battery____Long_Range___Accel_A0_Text_29 {
+		position: absolute;
+		left: 1337px;
+		top: 2688px;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#_Seating____5_Adults___Wheels_ {
+		position: absolute;
+		left: 1668px;
+		top: 2688px;
+		overflow: visible;
+		width: 169px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Model3 {
+		opacity: 0.8;
+	}
+	.Model3 {
+		position: absolute;
+		overflow: visible;
+		width: 482px;
+		height: 239px;
+		left: 1385px;
+		top: 2833px;
+	}
+	#Basic_Specs_A0_Text_31 {
+		position: absolute;
+		left: 389px;
+		top: 3744px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#ModelX {
+		opacity: 0.8;
+	}
+	.ModelX {
+		position: absolute;
+		overflow: visible;
+		width: 304px;
+		height: 389px;
+		left: 49px;
+		top: 3775px;
+	}
+	#_Battery____Long_Range___Accel_A0_Text_32 {
+		position: absolute;
+		left: 411px;
+		top: 3791px;
+		overflow: visible;
+		width: 152px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#ModelY {
+		opacity: 0.8;
+	}
+	.ModelY {
+		position: absolute;
+		overflow: visible;
+		width: 491px;
+		height: 244px;
+		left: 1402px;
+		top: 5053px;
+	}
+	#_Battery____Long_Range___Accel_A0_Text_33 {
+		position: absolute;
+		left: 1342px;
+		top: 4922px;
+		overflow: visible;
+		width: 136px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Basic_Specs_A0_Text_34 {
+		position: absolute;
+		left: 1324px;
+		top: 4869px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#_Drive____Dual_Motor_All_Wheel {
+		position: absolute;
+		left: 1640px;
+		top: 4922px;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Basic_Specs_A0_Text_36 {
+		position: absolute;
+		left: 80px;
+		top: 5982px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#_Acceleration_0_60_mph____1_9_ {
+		position: absolute;
+		left: 93px;
+		top: 6025px;
+		overflow: visible;
+		width: 157px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#_Wheel_Torque____10_000_Nm___M {
+		position: absolute;
+		left: 416px;
+		top: 6030px;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#ModelSTag {
+		opacity: 0;
+	}
+	.ModelSTag {
+		overflow: visible;
+		position: absolute;
+		width: 216px;
+		height: 46px;
+		left: 43px;
+		top: 1197px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Model3Tag {
+		opacity: 0;
+	}
+	.Model3Tag {
+		overflow: visible;
+		position: absolute;
+		width: 216px;
+		height: 46px;
+		left: 39px;
+		top: 2257px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ModelXTag {
+		opacity: 0;
+	}
+	.ModelXTag {
+		overflow: visible;
+		position: absolute;
+		width: 216px;
+		height: 46px;
+		left: 39px;
+		top: 3424px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ModelYTag {
+		opacity: 0;
+	}
+	.ModelYTag {
+		overflow: visible;
+		position: absolute;
+		width: 216px;
+		height: 46px;
+		left: 39px;
+		top: 4557px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#RoadsterTag {
+		opacity: 0;
+	}
+	.RoadsterTag {
+		overflow: visible;
+		position: absolute;
+		width: 216px;
+		height: 46px;
+		left: 43px;
+		top: 5675px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Tesla___2019_ {
+		position: absolute;
+		left: 921px;
+		top: 6762px;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#TOP {
+		position: absolute;
+		left: 1804px;
+		top: 982px;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(228,228,228,1);
+	}
+	nav{
+	z-index:2;
+	position: fixed;
+	background-color: #333;
+	width:1920px;
+	height:65px;
+	margin:auto;
+	}
+	body{
+		width: 1920px;
+		height: 50px;
+		margin:auto;
+	}
+}
